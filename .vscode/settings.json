@@ -1,0 +1,19 @@
+{
+  "sqltools.connections": [
+    {
+      "pgOptions": {
+        "ssl": {
+          "rejectUnauthorized": true
+        }
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "dpg-dbq55h8u01pc739t9png-a.singapore-postgres.render.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Render PostgreSQL",
+      "database": "nexora_ai_w6w7",
+      "username": "nexora_user"
+    }
+  ]
+}
